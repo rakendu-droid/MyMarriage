@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/plain"
+     >
+    
+    <TextView
+        android:id="@+id/txtIdeas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textColor="#FFFFCC"
+        android:textStyle="bold"
+        android:text="@string/Ideaspartner"/>
+    <TextView
+        android:id="@+id/txtTechnical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textColor="#FFFFCC"
+        android:textStyle="bold"
+        android:text="@string/TechincalInput"/>
+    
+    <TextView
+        android:id="@+id/finance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textColor="#FFFFCC"
+        android:textStyle="bold"
+        android:text="@string/FinancialPartner"/>
+
+     <TextView
+        android:id="@+id/life"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:textColor="#FFFFCC"
+        android:textStyle="bold"
+        android:text="@string/lifePartner"/>
+</LinearLayout>

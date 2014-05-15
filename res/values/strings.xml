@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Rakendu Weds Shilpa</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="invite" translatable="false">My Wedding Invitation</string>
+    <string name="wishes" translatable="false">Wish Me</string>
+    <string name="contact" translatable="false">Contact</string>
+    <string name="venue" translatable="false">Venue</string>
+    <string name="direction" translatable="false">Directions</string>
+    <string name="events" translatable="false">Events </string>
+	<string name="alertmessage" translatable="false">Please turn on GPS</string>
+	<string name="alerttitle" translatable="false">Locate me</string>
+	<string name="Ideaspartner">Ideas Partner:Ambika,Krishna,Pruthvi,Rmaya,Shashank,Shubha</string>
+	<string name="TechincalInput">Technical Partner: Rohith Raj,Google</string>
+	<string name="FinancialPartner">Finance Partner: Ravindra,Rajeshwari</string>
+	<string name="lifePartner">Life Partner: Shilpa</string>
+</resources>
